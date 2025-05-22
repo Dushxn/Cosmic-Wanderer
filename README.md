@@ -4,7 +4,7 @@
 
 ---
 ## 💻 Live Demo
-- **Link** : 
+- **Link** : https://cosmic-wanderer.netlify.app/
 
 ## 🚀 Features
 
